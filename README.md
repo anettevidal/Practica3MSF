@@ -4,7 +4,7 @@
 
 ## Información de la estudiante
 
-Corina Plata-Ante \[03210981]; corina.plata@tectijuana.edu.mx
+Anette Mariana Vidal Ortiz \[22212389]; l22212389@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
